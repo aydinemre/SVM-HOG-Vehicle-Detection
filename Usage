@@ -1,0 +1,8 @@
+
+  Programın çalışabilmesi için Traffic.mp4 dosya adı ile trafik dosyası
+ klasör içinde yer almalıdır.
+ 
+ -> cmake CMakeLists.txt
+ -> make
+ -> ./141044090
+
